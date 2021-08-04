@@ -1,3 +1,17 @@
+v1.0.0-rc1
+- Small grammar/spelling fixes
+- Small layout fixes
+- Added some information about Safari in the Guest VM Browser selection/hardening sections
+- Removed DREAD in the threat modeling references as it is deprecated
+- Added link to <https://arstechnica.com/gadgets/2021/07/vpn-servers-seized-by-ukrainian-authorities-werent-encrypted/> in the No Logging but Logging anyway section of VPN providers
+- Added Session Messenger as a possible "last resort" recommendation for iOS users because well there is no better option it seems despite their lack of PFS and Deniability
+- Corrected the Session Messenger information as not using Tor Natively but using LokiNet Onion Routing natively
+- Added a new Tor Browser route for the simplest, easiest way to access the web anonymously with warnings
+- Added additional information on attack mitigations on Bitlocker encrypted drives and reference to <https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network>
+- Changed the recommendations about the state of your real phone while using a burner phone. You should never bring it with you and leave it on at home.
+- Changed the route picking UML to only show options depending on your skills/resources/availability without considering threats/adversaries
+- Expanded the threat modeling section (after the previous UML) with adversaries/threats and picking the adequate route in consequence
+
 v0.9.9h
 - Fixed bad and missing linking about browser selection and install in guest VMs setup sections
 - Added ShutUp10 to the list of tools to improve Privacy on Windows 10

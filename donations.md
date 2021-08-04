@@ -44,9 +44,10 @@ Donations log (UTC date/time):
 - 2021-07-16 14:31: 0.1 mBTC
 - 2021-07-20 21:01: 0.058981 XMR
 - 2021-07-24 15:16: 0.000000000001 XMR 
-- 2021-07-25 02:37: 0.000000000001 XMR (That's about 0.0000000002 USD soooo Thank you! Twice! Weren't the transaction fees higher than the transactions? Just curious)
+- 2021-07-25 02:37: 0.000000000001 XMR
+- 2021-08-03 00:17: 0.04119191113 XMR
 
-Total Monero donations received: **1.769414000002 XMR**
+Total Monero donations received: **1.773533191115 XMR**
 Total Bitcoin donations received: **1.42765 mBTC**
 
 Spendings log (UTC date):
@@ -61,7 +62,7 @@ Spendings log (UTC date):
 - 2021-07-13: 0.067261698061 XMR for a Tor Exit Node (01) Hosting (3 months)
 - 2021-07-15: 0.151959953047 XMR for a Tor Exit Node (02) Hosting (6 months)
 
-Total Monero remaining: **0.064269822999 XMR**
+Total Monero remaining: **0.105461734129 XMR**
 Total Bitcoin remaining: **0.1 mBTC**
 
 [1]: media/monero.jpg
