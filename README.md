@@ -4,7 +4,7 @@ This is a maintained guide with the aim of providing introduction to various onl
 
 This guide is an open-source non-profit initiative, [licensed](LICENSE.html) under **Creative Commons Attribution-NonCommercial 4.0 International** ([cc-by-nc-4.0] <sup>[[Archive.org]][8]</sup>) and is not sponsored/endorsed by any commercial/governmental entity. This means that you are free to use my guide for pretty much any purpose **excluding commercially** as long as you do attribute it.
 
-The latest version is **0.9.9h**, See the [changelog](CHANGELOG.html).
+The latest version is **1.0.0-rc1**, See the [changelog](CHANGELOG.html).
 
 This project is also supporting the Tor Project by currently running two Tor Exit nodes to help others. 
 See the nodes here: <https://metrics.torproject.org/rs.html#search/family:970814F267BF3DE9DFF2A0F8D4019F80C68AEE26>
