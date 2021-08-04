@@ -84,7 +84,7 @@ And you should see the following entries at 0 for safety, this 0 means there is 
 /XFA                   0 #This indicates the presence of XML Forms within the PDF
 ```
 
-[light_virustotal]: https://www.virustotal.com/gui/file/3536831ad165428292a62cd88a9626758a82d84a3980ffc4fcab42b7f4bf18ef/detection
-[light_hybrid_analysis]: https://hybrid-analysis.com/sample/3536831ad165428292a62cd88a9626758a82d84a3980ffc4fcab42b7f4bf18ef
-[dark_virustotal]: https://www.virustotal.com/gui/file/94626f8205e61946dea055aa858706c4ca2ef13a9e0133b095881f15cc4e8389/detection
-[dark_hybrid_analysis]: https://hybrid-analysis.com/sample/94626f8205e61946dea055aa858706c4ca2ef13a9e0133b095881f15cc4e8389
+[light_virustotal]: 
+[light_hybrid_analysis]: 
+[dark_virustotal]: 
+[dark_hybrid_analysis]: 
