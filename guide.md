@@ -406,31 +406,31 @@ You can find an introduction to these here:
 
 It is very important to stress **again** that this guide is the humble result of years of experience, learning and testing **from a single individual** (myself), and that many of the systems that want to prevent anonymity are opaque, proprietary, closed-source systems. Many of the guidelines presented here are based on experience, on referenced studies, and recommendations by other people and projects. Gaining this kind of experience takes a lot of time, many resources, and are sometimes far from being scientific. **Some of the information in this guide might be outdated or wrong, because I am not omniscient and humans make mistakes. (Feel free to report any errors you find as GitHub Issues). Your mileage may vary (a lot). Use at your own risk. Please do not take this guide as a definitive truth for everything because it is not. All previous drafts have contained plenty of mistakes that I fixed when I was made aware of them. I have no doubt that there are still some mistakes in here right now. All of those will be fixed as soon as possible when discovered.**
 
-You might think this guide has no legitimate use but there are many[^16]'[^17]'[^18]'[^19]'[^20]'[^21]'[^22] such as:
+You might think this guide has no legitimate use, but there are many[^16]'[^17]'[^18]'[^19]'[^20]'[^21]'[^22], such as:
 
--   Evading Online Censorship
+-   Evading online censorship
 
--   Evading Online Oppression
+-   Evading online oppression
 
--   Evading Online Stalking, Doxxing, and Harassment
+-   Evading online stalking, doxing, and harassment
 
--   Evading Online Unlawful Government Surveillance
+-   Evading online unlawful government surveillance
 
--   Anonymous Online Whistle Blowing
+-   Anonymous online whistleblowing
 
--   Anonymous Online Activism
+-   Anonymous online activism
 
--   Anonymous Online Journalism
+-   Anonymous online journalism
 
--   Anonymous Online Legal Practice
+-   Anonymous online legal practice
 
--   Anonymous Online Academic Activities (For instance accessing scientific research where such resources are blocked). See note below.
+-   Anonymous online academic activities (e.g. accessing scientific research where such resources are blocked). See note below.
 
 -   ...
 
-**Note: that if you are having trouble accessing any of the many academic articles referenced in this guide, feel free to use Sci-Hub (<https://en.wikipedia.org/wiki/Sci-Hub>** <sup>[[Wikiless]][53]</sup> <sup>[[Archive.org]][54]</sup>**) or LibGen (<https://en.wikipedia.org/wiki/Library_Genesis>** <sup>[[Wikiless]][55]</sup> <sup>[[Archive.org]][56]</sup>**) for finding and reading them. Because Science should be free. All of it.**
+**Note: If you have trouble accessing any of the many academic articles referenced in this guide, feel free to use Sci-Hub (<https://en.wikipedia.org/wiki/Sci-Hub>** <sup>[[Wikiless]][53]</sup> <sup>[[Archive.org]][54]</sup>**) or LibGen (<https://en.wikipedia.org/wiki/Library_Genesis>** <sup>[[Wikiless]][55]</sup> <sup>[[Archive.org]][56]</sup>**) for finding and reading them. Because Science should be free. All of it.**
 
-This guide is written with hope for those **good intended individuals** who might not be knowledgeable enough to consider the big picture of online anonymity and privacy.
+This guide is written in the hope that it might benefit those **good intended individuals** who do not (yet) understand the big picture of online anonymity and privacy.
 
 This guide is not intended for:
 
@@ -438,13 +438,13 @@ This guide is not intended for:
 
 -   Creating impersonation accounts of existing people (such as identity theft).
 
--   Helping malicious actors conduct unethical, criminal, or illicit activities (such as trolling, stalking, disinformation, misinformation, harassment, bullying...).
+-   Helping malicious actors conduct unethical, criminal, or illicit activities (such as trolling, stalking, disinformation, misinformation, harassment, bullying etc.).
 
 -   Use by minors.
 
-Feel free to report issues, recommend improvements or start a discussion on the GitHub repository if you want.
+Feel free to report issues, recommend improvements or start a discussion on the GitHub repository.
 
-**Again, use at your own risk. Anything in here is not legal advice and you should verify compliance with your local law before use (IANAL**[^23]**). "Trust but verify"**[^24] **all the information yourself (or even better, "Never Trust, always verify"**[^352]**). I strongly encourage you to inform yourself and do not hesitate to check any information in this guide with outside sources in case of doubt. Please do report any mistake you spot to me as I welcome criticism. Even harsh criticism and usually make the necessary corrections as quickly as possible.**
+**Again: use at your own risk. Anything in here is not legal advice and you should verify compliance with your local law before use (IANAL**[^23]**). "Trust but verify"**[^24] **all the information yourself (or even better, "Never trust, always verify"**[^352]**). I strongly encourage you to get yourself informed and do not hesitate to cross-check any information in this guide with outside sources in case of doubt. Please do report any errors you spot - I do welcome criticism, even harsh criticism, and usually make the necessary corrections as quickly as possible.**
 
 # Understanding some basics of how information can lead back to you and how to mitigate some of it:
 
