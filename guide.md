@@ -99,7 +99,7 @@ Finally, note that:
         -   [Malware in your files/documents/e-mails:]
         -   [Malware and exploits in your apps and services:]
         -   [Malicious USB devices:]
-        -   [Malware and backdoors in your hardware\'s firmware and operating system:]
+        -   [Malware and backdoors in your hardware's firmware and operating system:]
     -   [Your files, documents, pictures, and videos:]
         -   [Properties and metadata:]
         -   [Watermarking:]
@@ -348,7 +348,7 @@ Finally, note that:
 
 Creating a social media account with a pseudonym or screen/pen/brand name is easy. And in most cases this is enough to protect your identity as the next George Orwell. There are plenty of people using pseudonyms all over Facebook/Instagram/Twitter/LinkedIn/TikTok/Snapchat/Reddit/... But the vast majority of them are anything but anonymous, and can easily be traced to their real identity by your local police officers, random people within the OSINT[^5] (Open-Source Intelligence) community, and trolls[^6] on 4chan[^7].
 
-This is a good thing, because most criminals/trolls are not really tech savvy and will be identified with ease. But it's also a bad thing, because most political dissidents, human rights activists and whistleblowers can also be tracked down rather easily.
+This is a good thing, because most criminals/trolls are not really tech savvy and will be identified with ease. But it is also a bad thing, because most political dissidents, human rights activists and whistleblowers can also be tracked down rather easily.
 
 This updated guide aims to provide an introduction to various de-anonymization techniques, tracking techniques, id verification techniques, and optional guidance to creating and maintaining **reasonably** anonymous identities online - including social media accounts - safely. This includes not only privacy-friendly platforms, but mainstream ones too.
 
@@ -364,13 +364,13 @@ It is important to understand that the purpose of this guide is anonymity, and n
 
 Will this guide help you protect yourself from the NSA, the FSB, Mark Zuckerberg, or the Mossad if they are out to find you? Probably not ... Mossad will be doing "Mossad things" [^10] and will probably find you no matter how hard you try to hide[^11].
 
-Before going any further, it's important that you consider your threat model[^12].
+Before going any further, it is important that you consider your threat model[^12].
 
 ![][42]
 
 (Illustration by Randall Munroe, xkcd.com, licensed under CC BY-NC 2.5)
 
-Will this guide help you protect your privacy from OSINT researchers like Bellingcat[^13], Doxing[^14] trolls on 4chan[^15] and others that have no access to the NSA toolbox? More likely. I wouldn't be so sure about 4chan, tho.
+Will this guide help you protect your privacy from OSINT researchers like Bellingcat[^13], Doxing[^14] trolls on 4chan[^15] and others that have no access to the NSA toolbox? More likely. I would not be so sure about 4chan, tho.
 
 Here is a basic, simplified threat model for this guide:
 
@@ -1272,7 +1272,7 @@ Notable Examples:
 
 -   Apple iCloud: <https://support.apple.com/en-us/HT202303> <sup>[[Archive.org]][156]</sup> : "Messages in iCloud also uses end-to-end encryption. If you have iCloud Backup turned on**, your backup includes a copy of the key protecting your Messages**. This ensures you can recover your Messages if you lose access to iCloud Keychain and your trusted devices. ".
 
--   Google Drive and WhatsApp: <https://faq.whatsapp.com/android/chats/about-google-drive-backups/> <sup>[[Archive.org]][157]</sup> : "**Media and messages you back up aren't protected by WhatsApp end-to-end encryption while in Google Drive**. ".
+-   Google Drive and WhatsApp: <https://faq.whatsapp.com/android/chats/about-google-drive-backups/> <sup>[[Archive.org]][157]</sup> : "**Media and messages you back up are not protected by WhatsApp end-to-end encryption while in Google Drive**. ".
 
 -   Dropbox: <https://www.dropbox.com/privacy#terms> <sup>[[Archive.org]][158]</sup> "To provide these and other features, **Dropbox accesses, stores, and scans Your Stuff**. You give us permission to do those things, and this permission extends to our affiliates and trusted third parties we work with".
 
@@ -1522,7 +1522,7 @@ Realistically, this guide will be of little help against such adversaries as the
 
 -   Have a look at <https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects> <sup>[[Wikiless]][194]</sup> <sup>[[Archive.org]][195]</sup> to have an overview of all known mass-surveillance projects, current and past.
 
--   Have a look at <https://www.gwern.net/Death-Note-Anonymity> <sup>[[Archive.org]][196]</sup> (even if you don't know about Death Note).
+-   Have a look at <https://www.gwern.net/Death-Note-Anonymity> <sup>[[Archive.org]][196]</sup> (even if you do not know about Death Note).
 
 -   Consider finding and reading Michael Bazzell's book "Open-Source Intelligence Techniques" (8th edition as of this writing to find out more about recent OSINT techniques) <https://inteltechniques.com/book1.html>
 
@@ -5610,7 +5610,7 @@ Here is the list of possibilities (this is a general list and many of those coun
 
 ### The Real-Name System:
 
-Unfortunately, not using your real identity is against the ToS (Terms of Services) of many services (especially those owned by Microsoft and Facebook). But don't despair, as explained in the [Requirements][Requirements:], it's still legal in Germany where the courts have upheld up the legality of not using real names on online platforms (§13 VI of the German Telemedia Act of 2007[^1]'[^2]). **Fortunately, ToS cannot override laws** **(yet)**.
+Unfortunately, not using your real identity is against the ToS (Terms of Services) of many services (especially those owned by Microsoft and Facebook). But do not despair, as explained in the [Requirements][Requirements:], it's still legal in Germany where the courts have upheld up the legality of not using real names on online platforms (§13 VI of the German Telemedia Act of 2007[^1]'[^2]). **Fortunately, ToS cannot override laws** **(yet)**.
 
 This does not mean that it is illegal in other places but that it might be a breach of their Terms of Services if you do not have the law on your side. **Remember this guide only endorses this for German users residing in Germany.**
 
@@ -6306,7 +6306,7 @@ It is also possible that Google will require an ID check through indirect financ
 
 -   Is this against their ToS? **Maybe?** I am not sure <https://help.instagram.com/581066165581870?ref=dp> <sup>[[Archive.org]][420]</sup>
 
-"**You can't impersonate others or provide inaccurate information. You do not have to disclose your identity on Instagram, but you must provide us with accurate and up to date information (including registration information)**. **Also, you may not impersonate someone you are not, and you can't create an account for someone else unless you have their express permission".**
+"**You must not impersonate others or provide inaccurate information. You do not have to disclose your identity on Instagram, but you must provide us with accurate and up to date information (including registration information)**. **Also, you may not impersonate someone you are not, and you must not create an account for someone else unless you have their express permission".**
 
 This one is a bit of an Oxymoron do not you think? So, I am not sure if it is allowed or not.
 
@@ -8043,7 +8043,7 @@ Please follow this documentation to Trim within Qubes OS: <https://github.com/Qu
 
 As with other Linux Systems, if you want more security and do not trust the Trim operation then you will have no option but to either:
 
--   Decrypt and re-encrypt the whole drive to overwrite all free space after data deletion. This will ensure overwriting of all the free space. I didn't find a reliable tutorial on how to do this safely on Qubes OS but it's possible this Tutorial could work as well <https://wiki.archlinux.org/index.php/dm-crypt/Device_encryption#Re-encrypting_devices> <sup>[[Archive.org]][486]</sup> (at your own risk, this has not been tested yet).
+-   Decrypt and re-encrypt the whole drive to overwrite all free space after data deletion. This will ensure overwriting of all the free space. I did not find a reliable tutorial on how to do this safely on Qubes OS but it's possible this Tutorial could work as well <https://wiki.archlinux.org/index.php/dm-crypt/Device_encryption#Re-encrypting_devices> <sup>[[Archive.org]][486]</sup> (at your own risk, this has not been tested yet).
 
 -   Refer to this Documentation (<https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/disk-trim.md> <sup>[[Archive.org]][487]</sup>) and then trim using "fstrim --all" and then fill up the entire free space of the disk using an utility such as:
 
@@ -10114,7 +10114,7 @@ My personal take on the matter is on the pragmatic side. I think there is still 
 
 -   You could also use online services for **non-sensitive files*** such as VirusTotal (<https://www.virustotal.com/gui/>) or Hybrid-analysis (<https://hybrid-analysis.com/>).
 
-    -   You could also just check the VirusTotal database for the hash of your file if you don't want to send it over (see <https://developers.virustotal.com/v3.0/docs/search-by-hash> <sup>[[Archive.org]][647]</sup> (See the [Integrity (if available):] section again for guidance on how to generate hashes).
+    -   You could also just check the VirusTotal database for the hash of your file if you do not want to send it over (see <https://developers.virustotal.com/v3.0/docs/search-by-hash> <sup>[[Archive.org]][647]</sup> (See the [Integrity (if available):] section again for guidance on how to generate hashes).
 
     -   Other tools are also available for non-sensitive files and a convenient list is right here: <https://github.com/rshipp/awesome-malware-analysis#online-scanners-and-sandboxes> <sup>[[Archive.org]][648]</sup>
 
