@@ -327,20 +327,20 @@ Finally, note that:
 -	[References:]
 
 # Requirements:
+-   This guide assumes that you
+-   are a permanent resident of Germany where the courts have upheld the legality of not using real names on online platforms (§13 VI of the German Telemedia Act of 2007[^1]'[^2]). **Alternatively, be a resident of any other country where you can validate and verify the legality of this guide for yourself.**
 
--   Be a permanent resident in Germany where the courts have upheld up the legality of not using real names on online platforms (§13 VI of the German Telemedia Act of 2007[^1]'[^2]). **Alternatively, be a resident of any other country where you can validate and verify the legality of this guide yourself.**
+-   have access to a (Windows/Linux/MacOS) laptop computer of your own (ideally not a work/shared device) and a very basic understanding of how it works.
 
--   This guide will assume you already have access to some personal (Windows/Linux/MacOS) laptop computer (ideally not a work/shared device) and a very basic understanding of how it works.
+-   have patience. This process could take several weeks to finalize, if you want to go through all the content.
 
--   Have patience as this process could take several weeks to finalize if you want to go through all the content.
+-   have a little budget to dedicate to this process (you will need at least budget for a USB key).
 
--   Have a little budget to dedicate to this process (you will need at least budget for an USB key).
+-   have some free time on your hands to dedicate to this process (or a lot depending on the route you pick).
 
--   Have some free time on your hands to dedicate to this process (or a lot depending on the route you pick).
+-   are prepared to read lots of references (do read them!), guides (do not skip them!) and follow many how-to tutorials thoroughly (do not skip them either!).
 
--   Be prepared to read a lot of references (do read them), guides (do not skip them) and follow a lot of how-to tutorials thoroughly (do not skip them either).
-
--   Don't be evil (for real this time)[^3].
+-   are not evil (for real this time)[^3].
 
 # Introduction:
 
