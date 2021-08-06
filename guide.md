@@ -344,19 +344,19 @@ Finally, note that:
 
 # Introduction:
 
-**TLDR for the whole guide: "A strange game. The only winning move is not to play"** [^4]**.**
+**TL;DR for the whole guide: "A strange game. The only winning move is not to play"** [^4]**.**
 
-Making a social media account with a pseudonym or artist/brand name is easy. And it is enough is most use cases to protect your identity as the next George Orwell. There are plenty of people using pseudonyms all over Facebook/Instagram/Twitter/LinkedIn/TikTok/Snapchat/Reddit/... But the vast majority of those are anything but anonymous and can easily be traced to their real identity by your local police officers, random people within the OSINT[^5] (Open-Source Intelligence) community and trolls[^6] on 4chan[^7].
+Creating a social media account with a pseudonym or screen/pen/brand name is easy. And in most cases this is enough to protect your identity as the next George Orwell. There are plenty of people using pseudonyms all over Facebook/Instagram/Twitter/LinkedIn/TikTok/Snapchat/Reddit/... But the vast majority of them are anything but anonymous, and can easily be traced to their real identity by your local police officers, random people within the OSINT[^5] (Open-Source Intelligence) community, and trolls[^6] on 4chan[^7].
 
-This is a good thing as most criminals/trolls are not really tech savvy and will be identified with ease. But this is also a bad thing as most political dissidents, human rights activists and whistleblowers can also be tracked rather easily.
+This is a good thing, because most criminals/trolls are not really tech savvy and will be identified with ease. But it's also a bad thing, because most political dissidents, human rights activists and whistleblowers can also be tracked down rather easily.
 
-This updated guide aims to provide introduction to various de-anonymization techniques, tracking techniques, id verification techniques and optional guidance to creating and maintaining **reasonably** anonymous identities online including social media accounts safely. This includes mainstream platforms and not only privacy friendly ones.
+This updated guide aims to provide an introduction to various de-anonymization techniques, tracking techniques, id verification techniques, and optional guidance to creating and maintaining **reasonably** anonymous identities online - including social media accounts - safely. This includes not only privacy-friendly platforms, but mainstream ones too.
 
-It is important to understand that the purpose of this guide is anonymity and not just privacy but many of the guidance you will find here will also help you improve your privacy and security even if you are not interested in anonymity. There is an important overlap in techniques and tools used for privacy, security, and anonymity but they differ at some point:
+It is important to understand that the purpose of this guide is anonymity, and not just privacy. But many of the practices you will find here will also help you improve your privacy and security, even if you are not interested in anonymity. There is an important overlap in techniques and tools used for privacy, security, and anonymity but they differ in some points:
 
 -   **Privacy is about people knowing who you are but not knowing what you are doing.**
 
--   **Anonymity is about people knowing what you are doing but not knowing who you are** [^8]**.**
+-   **Anonymity is about people knowing what you are doing but not knowing who you are.** [^8]
 
 ![][41]
 
@@ -364,25 +364,25 @@ It is important to understand that the purpose of this guide is anonymity and no
 
 Will this guide help you protect yourself from the NSA, the FSB, Mark Zuckerberg, or the Mossad if they are out to find you? Probably not ... Mossad will be doing "Mossad things" [^10] and will probably find you no matter how hard you try to hide[^11].
 
-You must consider your threat model[^12] before going further.
+Before going any further, it's important that you consider your threat model[^12].
 
 ![][42]
 
 (Illustration by Randall Munroe, xkcd.com, licensed under CC BY-NC 2.5)
 
-Will this guide help you protect your privacy from OSINT researchers like Bellingcat[^13] , Doxing[^14] trolls on 4chan[^15] and others that have no access to the NSA toolbox? More likely. Tho I would not be so sure about 4chan.
+Will this guide help you protect your privacy from OSINT researchers like Bellingcat[^13], Doxing[^14] trolls on 4chan[^15] and others that have no access to the NSA toolbox? More likely. I wouldn't be so sure about 4chan, tho.
 
-Here is a basic simplified threat model for this guide:
+Here is a basic, simplified threat model for this guide:
 
 ![][43]
 
-(Note that the "magical amulets/submarine/fake your own death" jokes are quoted from the excellent article "This World of Ours" by James Mickens, 2014above[^10])
+(Note that the "magical amulets/submarine/fake your own death" jokes are quoted from the excellent article "This World of Ours" by James Mickens[^10] - see above.)
 
-**Important Disclaimer:** **Jokes aside (magical amulet...). Of course, there are also advanced ways to mitigate attacks against such advanced and skilled adversaries but those are just out of scope of this guide**. **It is crucially important that you understand the limits of the threat model of this guide. And therefore, this guide will not double in size to help with those advanced mitigations as this is just too complex and will require a very high knowledge that is not expected from the targeted audience of this guide.**
+**Important Disclaimer: Jokes aside (magical amulets etc), there are of course also advanced ways to mitigate attacks against such advanced and skilled adversaries but those are just out of scope of this guide. It is crucially important that you understand the limits of the threat model of this guide. I will not double the size of this guide to help with those advanced techniques. That is too complex and would require knowledge that is much deeper than this guide expects from its target audience.**
 
-The EFF provides a few security scenarios of what you should consider depending on your activity. While some of those tips might not be within the scope of this guide (more about Privacy than Anonymity), they are still worth reading as examples. See <https://ssd.eff.org/en/module-categories/security-scenarios> <sup>[[Archive.org]][44]</sup>.
+The EFF provides a few security scenarios detailing what you can do to protect yourself depending on your activity. While some of those tips might be outside the scope of this guide (more about privacy than anonymity), they are still good examples and worth a read. See <https://ssd.eff.org/en/module-categories/security-scenarios> <sup>[[Archive.org]][44]</sup>.
 
-There are also quite a few more serious ways of making your threat model such as:
+There are some very serious ways of defining your threat model, such as:
 
 -   LINDDUN <https://www.linddun.org/> <sup>[[Archive.org]][45]</sup>
 
@@ -390,13 +390,13 @@ There are also quite a few more serious ways of making your threat model such as
 
 -   PASTA <https://versprite.com/tag/pasta-threat-modeling/> <sup>[[Archive.org]][48]</sup>
 
-And there are quite a few others too, see:
+And there are quite a few others, too, see:
 
 -   <https://insights.sei.cmu.edu/blog/threat-modeling-12-available-methods/> <sup>[[Archive.org]][49]</sup>
 
 -   <https://www.geeksforgeeks.org/threat-modelling/> <sup>[[Archive.org]][50]</sup>
 
-You can find some introduction on these on these projects:
+You can find an introduction to these here:
 
 -   Threat Modeling Manifesto <https://www.threatmodelingmanifesto.org/> <sup>[[Archive.org]][51]</sup>
 
@@ -404,7 +404,7 @@ You can find some introduction on these on these projects:
 
 -   Online Operations Security <https://web.archive.org/web/20210711215728/https://github.com/devbret/online-opsec>
 
-It is also very important **again** to understand this guide is the humble result of years of experience, learning and testing **from a single individual** (myself) and that many of those systems that aim to prevent anonymity are opaque proprietary closed-source systems. Many of those guidelines are based on experience, on referenced studies and recommendations by other people and projects. These experiences take a lot of time, resources and are sometimes far from being scientific. **There might be some wrong or outdated information in this guide too because I am not omniscient and humans make mistakes (feel free to report any using GitHub Issues).** **Your mileage may vary (a lot). Use at your own risk. Please do not take this guide as a definitive truth for everything because it is not. Plenty of mistakes have been written in the guide during the many previous drafts and fixed later when I was made aware of them. I have no doubts there are still some mistakes in here right now. All of those are fixed as soon as possible when discovered.**
+It is very important to stress **again** that this guide is the humble result of years of experience, learning and testing **from a single individual** (myself), and that many of the systems that want to prevent anonymity are opaque, proprietary, closed-source systems. Many of the guidelines presented here are based on experience, on referenced studies, and recommendations by other people and projects. Gaining this kind of experience takes a lot of time, many resources, and are sometimes far from being scientific. **Some of the information in this guide might be outdated or wrong, because I am not omniscient and humans make mistakes. (Feel free to report any errors you find as GitHub Issues). Your mileage may vary (a lot). Use at your own risk. Please do not take this guide as a definitive truth for everything because it is not. All previous drafts have contained plenty of mistakes that I fixed when I was made aware of them. I have no doubt that there are still some mistakes in here right now. All of those will be fixed as soon as possible when discovered.**
 
 You might think this guide has no legitimate use but there are many[^16]'[^17]'[^18]'[^19]'[^20]'[^21]'[^22] such as:
 
