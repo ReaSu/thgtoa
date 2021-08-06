@@ -47,25 +47,25 @@ To contact me, see the updated information on the website or send an e-mail to <
 
 There are several ways you could read this guide:
 
--   You want to understand the current state of online privacy and anonymity not necessarily get too technical about it: Just read the [Introduction][Introduction:], [Requirements][Requirements:], [Understanding some basics of how some information can lead back to you and how to mitigate those][Understanding some basics of how some information can lead back to you and how to mitigate some:] and [A final editorial note][A small final editorial note:] sections.
+-   If you want to understand the current state of online privacy and anonymity, and not necessarily get too technical about it: Just read the [Introduction][Introduction:], [Requirements][Requirements:], [Understanding some basics of how information can lead back to you and how to mitigate some of it][Understanding some basics of how information can lead back to you and how to mitigate some of it:] and [A small final editorial note][A small final editorial note:] sections.
 
--   You want to do the above but also learn how to remove some online information about you: Just read the above and add the [Removing some traces of your identities on search engines and various platforms.][Removing some traces of your identities on search engines and various platforms:]
+-   If you want to do the above but also learn how to remove some online information about yourself: Just read the above and add the [Removing some traces of your identities on search engines and various platforms][Removing some traces of your identities on search engines and various platforms:].
 
--   You want to do the above and create online anonymous identities online safely and securely: Read the whole guide.
+-   If you want to do the above and create anonymous online identities safely and securely: Read the whole guide.
 
-Finally note that:
+Finally, note that:
 
--   This guide does mention and even recommends some commercial services in some sections (such as VPNs, CDNs, and hosting providers) but is not endorsed or sponsored by any of them in any way. There are no referral links and no commercial ties with any of these providers. This project is 100% non-profit.
+-   This guide mentions and even recommends some commercial services in some sections (such as VPNs, CDNs, and hosting providers), but is not endorsed or sponsored by any of them in any way. There are no referral links and no commercial ties with any of these providers. This project is 100% non-profit.
 
 -   All external links to:
 
-    -   **Documents/Files** have an **[Archive.org]** link next to them for accessing content through Archive.org for increased privacy and in case the content goes missing. It is possible some links are not yet archived or outdated on archive.org in which case I encourage you to ask a new save if possible.
+    -   **Documents/files** have an **[Archive.org]** link next to them to access the content through Archive.org for increased privacy, and in case the content goes missing. It is possible that some links are not yet archived, or outdated on archive.org, in which case I encourage you to request a new save if possible.
 
-    -   **YouTube Videos** have an **[Invidious]** link next to them for accessing content through an Invidious Instance (in this case yewtu.be hosted in the Netherlands) for increased privacy. See <https://github.com/iv-org/invidious> <sup>[[Archive.org]][38]</sup> for more information.
+    -   **YouTube videos** have an **[Invidious]** link next to them to access the content through an Invidious instance (in this case yewtu.be hosted in the Netherlands) for increased privacy. See <https://github.com/iv-org/invidious> <sup>[[Archive.org]][38]</sup> for more information.
 
-    -   **Twitter** have a **[Nitter]** link next to them for accessing content through a Nitter Instance (in this case nitter.fdn.fr hosted in France) for increased privacy. See <https://github.com/zedeus/nitter> <sup>[[Archive.org]][39]</sup> for more information.
+    -   **Twitter links** have a **[Nitter]** link next to them to access the content through a Nitter instance (in this case nitter.fdn.fr hosted in France) for increased privacy. See <https://github.com/zedeus/nitter> <sup>[[Archive.org]][39]</sup> for more information.
 
-    -   **Wikipedia** have a **[Wikiless]** link next to them for accessing content through a Wikiless Instance (in this case Wikiless.org) for increased privacy. See <https://codeberg.org/orenom/wikiless> <sup>[[Archive.org]][40]</sup> for more information.
+    -   **Wikipedia links** have a **[Wikiless]** link next to them to access the content through a Wikiless instance (in this case Wikiless.org) for increased privacy. See <https://codeberg.org/orenom/wikiless> <sup>[[Archive.org]][40]</sup> for more information.
 
 -   **If you are reading this in PDF format, you will be seeing plenty of \`\`\` in place of double quotes (""). These \`\`\` should be ignored and are just there to facilitate conversion into Markdown/HTML format for on-line viewing.**
 
@@ -73,99 +73,99 @@ Finally note that:
 
 -   [Requirements:]
 -   [Introduction:]
--   [Understanding some basics of how some information can lead back to you and how to mitigate some:]
-    -   [Your Network:]
+-   [Understanding some basics of how information can lead back to you and how to mitigate some of it:]
+    -   [Your network:]
         -   [Your IP address:]
         -   [Your DNS and IP requests:]
         -   [Your RFID enabled devices:]
-        -   [The Wi-Fis and Bluetooth devices around you:]
-        -   [Malicious/Rogue Wi-Fi Access Points:]
-        -   [Your Anonymized Tor/VPN traffic:]
-        -   [Some Devices can be tracked even when offline:]
-    -   [Your Hardware Identifiers:]
+        -   [The Wi-Fis and bluetooth devices around you:]
+        -   [Malicious/rogue Wi-Fi access points:]
+        -   [Your anonymized Tor/VPN traffic:]
+        -   [Devices that can be tracked even when offline:]
+    -   [Your hardware identifiers:]
         -   [Your IMEI and IMSI (and by extension, your phone number):]
-        -   [Your Wi-Fi or Ethernet MAC address:]
+        -   [Your Wi-Fi or ethernet MAC address:]
         -   [Your Bluetooth MAC address:]
     -   [Your CPU:]
-    -   [Your Operating Systems and Apps telemetry services:]
-    -   [Your Smart devices in general:]
+    -   [Your operating systems and apps telemetry services:]
+    -   [Your smart devices in general:]
     -   [Yourself:]
-        -   [Your Metadata including your Geo-Location:]
-        -   [Your Digital Fingerprint, Footprint, and Online Behavior:]
-        -   [Your Clues about your Real Life and OSINT:]
-        -   [Your Face, Voice, Biometrics and Pictures:]
-        -   [Phishing and Social Engineering:]
+        -   [Your metadata including your geo-location:]
+        -   [Your digital fingerprint, footprint, and online behavior:]
+        -   [Your clues about your real life and OSINT:]
+        -   [Your face, voice, biometrics and pictures:]
+        -   [Phishing and social Engineering:]
     -   [Malware, exploits, and viruses:]
         -   [Malware in your files/documents/e-mails:]
-        -   [Malware and Exploits in your apps and services:]
+        -   [Malware and exploits in your apps and services:]
         -   [Malicious USB devices:]
-        -   [Malware and backdoors in your Hardware Firmware and Operating System:]
+        -   [Malware and backdoors in your hardware\'s firmware and operating system:]
     -   [Your files, documents, pictures, and videos:]
-        -   [Properties and Metadata:]
+        -   [Properties and metadata:]
         -   [Watermarking:]
-        -   [Pixelized or Blurred Information:]
-    -   [Your Crypto currencies transactions:]
-    -   [Your Cloud backups/sync services:]
-    -   [Your Browser and Device Fingerprints:]
-    -   [Local Data Leaks and Forensics:]
-    -   [Bad Cryptography:]
+        -   [Pixelized or blurred information:]
+    -   [Your crypto currencies transactions:]
+    -   [Your cloud backups/sync services:]
+    -   [Your browser and device fingerprints:]
+    -   [Local data leaks and forensics:]
+    -   [Bad cryptography:]
     -   [No logging but logging anyway policies:]
-    -   [Some Advanced targeted techniques:]
+    -   [Some advanced targeted techniques:]
     -   [Some bonus resources:]
     -   [Notes:]
--   [General Preparations:]
+-   [General preparations:]
     -   [Picking your route:]
         -   [Timing limitations:]
-        -   [Budget/Material limitations:]
+        -   [Budget/material limitations:]
         -   [Skills:]
         -   [Additional considerations:]
     -   [Steps for all routes:]
         -   [Get used to use better passwords:]
-        -   [Get an anonymous Phone number:]
+        -   [Get an anonymous phone number:]
         -   [Get an USB key:]
         -   [Find some safe places with decent public Wi-Fi:]
     -   [The Tor Browser route:]
         -   [Windows, Linux and MacOS:]
         -   [Android:]
         -   [iOS:]
-        -   [Important Warning:]
+        -   [Important warning:]
     -   [The Tails route:]
         -   [Persistent Plausible Deniability using Whonix within Tails:]
     -   [Steps for all other routes:]
         -   [Get a dedicated laptop for your sensitive activities:]
         -   [Some laptop recommendations:]
-        -   [Bios/UEFI/Firmware Settings of your laptop:]
-        -   [Physically Tamper protect your laptop:]
+        -   [Bios/UEFI/Firmware settings of your laptop:]
+        -   [Physically tamper protect your laptop:]
     -   [The Whonix route:]
-        -   [Picking your Host OS (the OS installed on your laptop):]
-        -   [Linux Host OS:]
-        -   [MacOS Host OS:]
-        -   [Windows Host OS:]
-        -   [Virtualbox on your Host OS:]
+        -   [Picking your host OS (the OS installed on your laptop):]
+        -   [Linux host OS:]
+        -   [MacOS host OS:]
+        -   [Windows host OS:]
+        -   [Virtualbox on your host OS:]
         -   [Pick your connectivity method:]
-        -   [Get an anonymous VPN/Proxy:]
+        -   [Get an anonymous VPN/proxy:]
         -   [Whonix:]
         -   [Tor over VPN:]
-        -   [Whonix Virtual Machines:]
-        -   [Pick your guest workstation Virtual Machine:]
-        -   [Linux Virtual Machine (Whonix or Linux):]
-        -   [Windows 10 Virtual Machine:]
-        -   [Android Virtual Machine:]
-        -   [MacOS Virtual Machine:]
+        -   [Whonix virtual machines:]
+        -   [Pick your guest workstation virtual machine:]
+        -   [Linux virtual machine (Whonix or Linux):]
+        -   [Windows 10 virtual machine:]
+        -   [Android virtual machine:]
+        -   [MacOS virtual machine:]
         -   [KeepassXC:]
         -   [VPN client installation (cash/Monero paid):]
-        -   [(Optional) Allowing only the VMs to access the internet while cutting off the Host OS to prevent any leak:]
+        -   [(Optional) Allowing only the VMs to access the internet while cutting off the host OS to prevent any leak:]
         -   [Final step:]
-    -   [The Qubes Route:]
+    -   [The Qubes route:]
         -   [Pick your connectivity method:][1]
-        -   [Get an anonymous VPN/Proxy:][2]
+        -   [Get an anonymous VPN/proxy:][2]
         -   [Installation:]
-        -   [Lid Closure Behavior:]
-        -   [Connect to a Public Wi-Fi:]
+        -   [Lid closure behavior:]
+        -   [Connect to a public Wi-Fi:]
         -   [Update Qubes OS:]
         -   [Hardening Qubes OS:]
-        -   [Setup the VPN ProxyVM:]
-        -   [Setup a safe Browser within Qubes OS (optional but recommended):]
+        -   [Setup the VPN proxyVM:]
+        -   [Setup a safe browser within Qubes OS (optional but recommended):]
         -   [Setup an Android VM:]
         -   [KeePassXC:][3]
 -   [Creating your anonymous online identities:]
@@ -175,49 +175,49 @@ Finally note that:
         -   [E-Mail verification:]
         -   [User details checking:]
         -   [Proof of ID verification:]
-        -   [IP Filters:]
-        -   [Browser and Device Fingerprinting:]
+        -   [IP filters:]
+        -   [Browser and device fingerprinting:]
         -   [Human interaction:]
-        -   [User Moderation:]
-        -   [Behavioral Analysis:]
+        -   [User moderation:]
+        -   [Behavioral analysis:]
         -   [Financial transactions:]
         -   [Sign-in with some platform:]
         -   [Live Face recognition and biometrics (again):]
         -   [Manual reviews:]
-    -   [Getting Online:]
+    -   [Getting online:]
         -   [Creating new identities:]
-        -   [The Real-Name System:]
+        -   [The real-name system:]
         -   [About paid services:]
         -   [Overview:]
         -   [How to share files or chat anonymously:]
-        -   [Redacting Documents/Pictures/Videos/Audio safely:]
+        -   [Redacting documents/pictures/videos/audio safely:]
         -   [Communicating sensitive information to various known organizations:]
         -   [Maintenance tasks:]
 -   [Backing-up your work securely:]
-    -   [Offline Backups:]
-        -   [Selected Files Backups:]
-        -   [Full Disk/System Backups:]
-    -   [Online Backups:]
+    -   [Offline backups:]
+        -   [Selected files backups:]
+        -   [Full disk/system backups:]
+    -   [Online backups:]
         -   [Files:]
         -   [Information:]
-    -   [Synchronizing your files between devices Online:]
+    -   [Synchronizing your files between devices online:]
 -   [Covering your tracks:]
     -   [Understanding HDD vs SSD:]
-        -   [Wear-Leveling.]
-        -   [Trim Operations:]
-        -   [Garbage Collection:]
+        -   [Wear-leveling:]
+        -   [Trim operations:]
+        -   [Garbage collection:]
         -   [Conclusion:]
-    -   [How to securely wipe your whole Laptop/Drives if you want to erase everything:]
+    -   [How to securely wipe your whole laptop/drives if you want to erase everything:]
         -   [Linux (all versions including Qubes OS):]
         -   [Windows:]
         -   [MacOS:]
-    -   [How to securely delete specific files/folders/data on your HDD/SSD and Thumb drives:]
+    -   [How to securely delete specific files/folders/data on your HDD/SSD and thumb drives:]
         -   [Windows:][4]
-        -   [Linux (non Qubes OS):]
+        -   [Linux (non Qubes OS):]~~~ further down you have Qubes OS first, then non Qubes OS. It's OK if this is on purpose, should be switched otherwise.
         -   [Linux (Qubes OS):]
         -   [MacOS:][5]
     -   [Some additional measures against forensics:]
-        -   [Removing Metadata from Files/Documents/Pictures:]
+        -   [Removing metadata from files/documents/pictures:]
         -   [Tails:]
         -   [Whonix:][6]
         -   [MacOS:][7]
@@ -246,57 +246,57 @@ Finally note that:
 -   [Donations:]
 -   [Helping others staying anonymous:]
 -   [Acknowledgements:]
--   [Appendix A: Windows Installation]
+-   [Appendix A: Windows installation:]
     -   [Installation:][10]
-    -   [Privacy Settings:]
--   [Appendix B: Windows Additional Privacy Settings]
--   [Appendix C: Windows Installation Media Creation]
--   [Appendix D: Using System Rescue to securely wipe an SSD drive.]
--   [Appendix E: Clonezilla]
--   [Appendix F: Diskpart]
--   [Appendix G: Safe Browser on the Host OS]
+    -   [Privacy settings:]
+-   [Appendix B: Windows additional privacy settings:]
+-   [Appendix C: Windows installation media creation:]
+-   [Appendix D: Using System Rescue to securely wipe an SSD drive:]
+-   [Appendix E: Clonezilla:]
+-   [Appendix F: Diskpart:]
+-   [Appendix G: Safe browser on the host OS]
     -   [If you can use Tor:]
     -   [If you cannot use Tor:]
--   [Appendix H: Windows Cleaning Tools]
+-   [Appendix H: Windows cleaning tools:]
 -   [Appendix I: Using ShredOS to securely wipe an HDD drive:]
     -   [Windows:][11]
     -   [Linux:]
--   [Appendix J: Manufacturer tools for Wiping HDD and SSD drives:]
+-   [Appendix J: Manufacturer tools for wiping HDD and SSD drives:]
     -   [Tools that provide a boot disk for wiping from boot:]
-    -   [Tools that provide only support from running OS (for external drives).]
+    -   [Tools that only provide support from running OS (for external drives):]
 -   [Appendix K: Considerations for using external SSD drives]
     -   [Windows:][12]
-        -   [Trim Support:]
-        -   [ATA/NVMe Operations (Secure Erase/Sanitize):]
+        -   [Trim support:]
+        -   [ATA/NVMe operations (secure erase/sanitize):]
     -   [Linux:][13]
-        -   [Trim Support:][14]
-        -   [ATA/NVMe Operations (Secure Erase/Sanitize):][15]
+        -   [Trim support:][14]
+        -   [ATA/NVMe operations (secure erase/sanitize):][15]
     -   [MacOS:][16]
-        -   [Trim Support:][17]
-        -   [ATA/NVMe Operations (Secure Erase/Sanitize):][18]
--   [Appendix L: Creating a mat2-web guest VM for removing metadata from files]
--   [Appendix M: BIOS/UEFI options to wipe disks in various Brands]
--   [Appendix N: Warning about smartphones and smart devices]
--   [Appendix O: Get an anonymous VPN/Proxy]
-    -   [Cash/Monero-Paid VPN (preferred):]
-    -   [Self-hosted VPN/Proxy on a Monero/Cash-paid VPS (for skilled users familiar with Linux):]
+        -   [Trim support:][17]
+        -   [ATA/NVMe operations (secure erase/sanitize):][18]
+-   [Appendix L: Creating a mat2-web guest VM for removing metadata from files:]
+-   [Appendix M: BIOS/UEFI options to wipe disks in various brands:]
+-   [Appendix N: Warning about smartphones and smart devices:]
+-   [Appendix O: Get an anonymous VPN/proxy:]
+    -   [Cash/Monero-paid VPN (preferred):]
+    -   [Self-hosted VPN/Proxy on a Monero/cash-paid VPS (for skilled users familiar with Linux):]
         -   [VPN VPS:]
         -   [Socks Proxy VPS:]
--   [Appendix P: Accessing the internet as safely as possible when Tor and VPNs are not an option]
--   [Appendix Q: Using long range Antenna to connect to Public Wi-Fis from a safe distance:]
--   [Appendix R: Installing a VPN on your VM or Host OS.]
--   [Appendix S: Check your network for surveillance/censorship using OONI]
--   [Appendix T: Checking files for malware]
+-   [Appendix P: Accessing the internet as safely as possible when Tor and VPNs are not an option:]
+-   [Appendix Q: Using long range antenna to connect to public Wi-Fis from a safe distance:]
+-   [Appendix R: Installing a VPN on your VM or host OS:]
+-   [Appendix S: Check your network for surveillance/censorship using OONI:]
+-   [Appendix T: Checking files for malware:]
     -   [Integrity (if available):]
     -   [Authenticity (if available):]
     -   [Security (checking for actual malware):]
-        -   [Anti-Virus Software:]
-        -   [Manual Reviews:][19]
--   [Appendix U: How to bypass (some) local restrictions on supervised computers]
-    -   [Portable Apps:]
-    -   [Bootable Live Systems:]
+        -   [Anti-virus software:]
+        -   [Manual reviews:][19]
+-   [Appendix U: How to bypass (some) local restrictions on supervised computers:]
+    -   [Portable apps:]
+    -   [Bootable live systems:]
     -   [Precautions:]
--   [Appendix V: What browser to use in your Guest VM/Disposable VM]
+-   [Appendix V: What browser to use in your guest VM/disposable VM:]
     -   [Brave:]
     -   [Ungoogled-Chromium:]
     -   [Edge:]
@@ -319,11 +319,11 @@ Finally note that:
     -   [Installation:][25]
     -   [Usage:]
     -   [Warnings:]
--   [Appendix Z: Paying anonymously online with BTC]
--   [Appendix A1: Recommended VPS hosting providers]
--   [Appendix A2: Guidelines for passwords and passphrases]
--   [Appendix A3: Search Engines]
--   [Monero Disclaimer]
+-   [Appendix Z: Paying anonymously online with BTC:]
+-   [Appendix A1: Recommended VPS hosting providersi:]
+-   [Appendix A2: Guidelines for passwords and passphrases:]
+-   [Appendix A3: Search engines:]
+-   [Monero Disclaimer:]
 -	[References:]
 
 # Requirements:
@@ -446,7 +446,7 @@ Feel free to report issues, recommend improvements or start a discussion on the 
 
 **Again, use at your own risk. Anything in here is not legal advice and you should verify compliance with your local law before use (IANAL**[^23]**). "Trust but verify"**[^24] **all the information yourself (or even better, "Never Trust, always verify"**[^352]**). I strongly encourage you to inform yourself and do not hesitate to check any information in this guide with outside sources in case of doubt. Please do report any mistake you spot to me as I welcome criticism. Even harsh criticism and usually make the necessary corrections as quickly as possible.**
 
-# Understanding some basics of how some information can lead back to you and how to mitigate some:
+# Understanding some basics of how information can lead back to you and how to mitigate some of it:
 
 There are many ways you can be tracked besides browser cookies and ads, your e-mail, and your phone number. And if you think only the Mossad or the NSA/FSB can find you, you would be terribly wrong.
 
@@ -694,7 +694,7 @@ Lastly, do remember that using Tor can already be considered a suspicious activi
 
 This guide will later propose some mitigations to such attacks by changing your origin from the start (using public wi-fi's for instance).
 
-### Some Devices can be tracked even when offline:
+### Devices that can be tracked even when offline:
 
 You have seen this in action/spy/Sci-Fi movies and shows, the protagonists always remove the battery of their phones to make sure it cannot be used. Most people would think that's overkill. Well, unfortunately no, this is now becoming true at least for some devices:
 
@@ -1146,7 +1146,7 @@ While you could inspect an USB key physically, scan it with various utilities, c
 
 To mitigate this, you should never trust such devices and plug them into sensitive equipment. If you use a charging device, you should consider the use of an USB data blocking device that will only allow charging but not any data transfer. Such data blocking devices are now readily available in many online shops. You should also consider disabling USB ports completely within the BIOS of your computer unless you need them (if you can).
 
-### Malware and backdoors in your Hardware Firmware and Operating System:
+### Malware and backdoors in your Hardware\'s Firmware and Operating System:
 
 This might sound a bit familiar as this was already partially covered previously in the [Your CPU][Your CPU:] section.
 
@@ -1158,7 +1158,7 @@ What is firmware? Firmware is a low-level operating system for devices. Each com
 
 These can allow remote management and capable of enabling full control on a target system silently and stealthily.
 
-As mentioned previously, these are harder to detect by users but nevertheless some limited steps that can be taken to mitigate some those by protecting your device from tampering and use some measures (like re-flashing the bios for example). Unfortunately, if such malware or backdoor is implemented by the manufacturer itself, it becomes extremely difficult to detect and disable those.
+As mentioned previously, these are harder to detect by users but nevertheless some limited steps that can be taken to mitigate some of those by protecting your device from tampering and use some measures (like re-flashing the bios for example). Unfortunately, if such malware or backdoor is implemented by the manufacturer itself, it becomes extremely difficult to detect and disable those.
 
 ## Your files, documents, pictures, and videos:
 
@@ -12113,7 +12113,7 @@ Also please consider reading: **<https://github.com/monero-project/monero/blob/m
   [Contents:]: #contents
   [Requirements:]: #requirements
   [Introduction:]: #introduction
-  [Understanding some basics of how some information can lead back to you and how to mitigate some:]: #understanding-some-basics-of-how-some-information-can-lead-back-to-you-and-how-to-mitigate-some
+  [Understanding some basics of how information can lead back to you and how to mitigate some of it:]: #understanding-some-basics-of-how-information-can-lead-back-to-you-and-how-to-mitigate-some-of-it
   [Your Network:]: #your-network
   [Your IP address:]: #your-ip-address
   [Your DNS and IP requests:]: #your-dns-and-ip-requests
@@ -12121,7 +12121,7 @@ Also please consider reading: **<https://github.com/monero-project/monero/blob/m
   [The Wi-Fis and Bluetooth devices around you:]: #the-wi-fis-and-bluetooth-devices-around-you
   [Malicious/Rogue Wi-Fi Access Points:]: #maliciousrogue-wi-fi-access-points
   [Your Anonymized Tor/VPN traffic:]: #your-anonymized-torvpn-traffic
-  [Some Devices can be tracked even when offline:]: #some-devices-can-be-tracked-even-when-offline
+  [Devices that can be tracked even when offline:]: #devices-that-can-be-tracked-even-when-offline
   [Your Hardware Identifiers:]: #your-hardware-identifiers
   [Your IMEI and IMSI (and by extension, your phone number):]: #your-imei-and-imsi-and-by-extension-your-phone-number
   [Your Wi-Fi or Ethernet MAC address:]: #your-wi-fi-or-ethernet-mac-address
@@ -12139,7 +12139,7 @@ Also please consider reading: **<https://github.com/monero-project/monero/blob/m
   [Malware in your files/documents/e-mails:]: #malware-in-your-filesdocumentse-mails
   [Malware and Exploits in your apps and services:]: #malware-and-exploits-in-your-apps-and-services
   [Malicious USB devices:]: #malicious-usb-devices
-  [Malware and backdoors in your Hardware Firmware and Operating System:]: #malware-and-backdoors-in-your-hardware-firmware-and-operating-system
+  [Malware and backdoors in your Hardware\'s Firmware and Operating System:]: #malware-and-backdoors-in-your-hardwares-firmware-and-operating-system
   [Your files, documents, pictures, and videos:]: #your-files-documents-pictures-and-videos
   [Properties and Metadata:]: #properties-and-metadata
   [Watermarking:]: #watermarking
